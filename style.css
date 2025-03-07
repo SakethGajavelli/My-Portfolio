@@ -9,7 +9,7 @@ body, h1, h2, p, ul, li, a {
 
 /* Background and layout */
 body {
-    background: linear-gradient(135deg, #0a1931, #154360);
+    background:  linear-gradient(135deg, #0F2027, #203A43, #2C5364);
     margin: 0;
     padding: 0;
     animation: backgroundAnimation 10s infinite alternate;
